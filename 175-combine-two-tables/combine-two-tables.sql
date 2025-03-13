@@ -1,7 +1,4 @@
 # Write your MySQL query statement below
--- Report firstName, lastName, city, state
--- if address not present, report Null
-
 SELECT p.firstName,
 p.lastName,
 a.city,
